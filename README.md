@@ -100,6 +100,7 @@ print("Game Over, You Lose \u{2639}")
 }
 }
 ```
+```
 import Foundation
 
 print("HANGMAN")
@@ -130,3 +131,4 @@ print("Game Over, You Lose \u{2639}")
 //        print ("You Win \u{263A}")
 }
 chancesLeft -= 1
+```
